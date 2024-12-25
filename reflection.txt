@@ -1,0 +1,10 @@
+1.Approach:
+1. First I read all the instruction/tasks that are mentioned in the GDGoC PSIT task list.
+2. After all I use that element that are mentioned in the task list one by one.
+3. And in this way I cleared all the task one by one and that's it.
+
+2.Challenges:
+I only incounter the symbol challenge for ruppe symbol and copyright symbol for that I search in google and get the particular code for that symbol and use it.
+
+3.Learning:
+~ Always Learn new in this task.
